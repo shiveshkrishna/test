@@ -3,7 +3,7 @@
     "path": "D:/etc5513/A3A/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "1021599568",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1716694872362.0,
@@ -19,6 +19,7 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
+<<<<<<< HEAD:.Rproj.user/8D81F879/sources/per/t/CA127703
         "rmdVisualModeLocation": "222:19.259260177612305"
     },
     "folds": "",
@@ -27,6 +28,16 @@
     "collab_server": "",
     "source_window": "",
     "last_content_update": 1716695749,
+=======
+        "rmdVisualModeLocation": "247:55.55556106567383"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1716695242,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716695242658,
+>>>>>>> testbranch:.Rproj.user/8D81F879/sources/session-aba31abf/CA127703
     "read_only": false,
     "read_only_alternatives": []
 }
