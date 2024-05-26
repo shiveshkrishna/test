@@ -3,7 +3,7 @@
     "path": "D:/etc5513/A3A/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "1021599568",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1716694872362.0,
@@ -19,14 +19,14 @@
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "222:0"
+        "rmdVisualModeLocation": "247:55.55556106567383"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716694898,
+    "lastKnownWriteTime": 1716695242,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716694898651,
+    "last_content_update": 1716695242658,
     "read_only": false,
     "read_only_alternatives": []
 }
